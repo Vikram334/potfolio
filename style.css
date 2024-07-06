@@ -1,0 +1,77 @@
+/* Add your custom CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #007bff; /* Example blue color */
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.home {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #ffffff; /* White background */
+}
+
+.home-content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.btn-box {
+    margin-top: 20px;
+}
+
+.home-sci {
+    margin-top: 20px;
+}
+
+.aboutme {
+    padding: 50px 0;
+    background-color: #ffffff; /* White background */
+    text-align: center;
+}
+
+.aboutme ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.aboutme ul li {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.project {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.project .card {
+    margin-bottom: 20px;
+}
+
+.contact {
+    padding: 50px 0;
+    background-color: #ffffff; /* White background */
+    text-align: center;
+}
+
+footer {
+    background-color: #007bff; /* Example blue color */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+}
